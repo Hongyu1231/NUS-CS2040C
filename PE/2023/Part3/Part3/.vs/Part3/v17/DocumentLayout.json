@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Y2S1\\CS2040C\\PE\\2023\\Part3\\Part3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C26DDCC5-784E-47D8-9F53-5D8215851A62}|Part3.vcxproj|D:\\Y2S1\\CS2040C\\PE\\2023\\Part3\\Part3\\partygoing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C26DDCC5-784E-47D8-9F53-5D8215851A62}|Part3.vcxproj|solutionrelative:partygoing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26DDCC5-784E-47D8-9F53-5D8215851A62}|Part3.vcxproj|D:\\Y2S1\\CS2040C\\PE\\2023\\Part3\\Part3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C26DDCC5-784E-47D8-9F53-5D8215851A62}|Part3.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "partygoing.h",
+              "DocumentMoniker": "D:\\Y2S1\\CS2040C\\PE\\2023\\Part3\\Part3\\partygoing.h",
+              "RelativeDocumentMoniker": "partygoing.h",
+              "ToolTip": "D:\\Y2S1\\CS2040C\\PE\\2023\\Part3\\Part3\\partygoing.h",
+              "RelativeToolTip": "partygoing.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-02T13:06:41.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Y2S1\\CS2040C\\PE\\2023\\Part3\\Part3\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Y2S1\\CS2040C\\PE\\2023\\Part3\\Part3\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-02T13:06:40.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
