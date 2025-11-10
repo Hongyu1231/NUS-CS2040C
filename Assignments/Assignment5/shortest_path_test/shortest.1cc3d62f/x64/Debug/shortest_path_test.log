@@ -1,0 +1,6 @@
+﻿  shortest_path.cpp
+D:\Y2S1\CS2040C\Assignments\Assignment5\shortest_path_test\graph.h(53,51): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'shortest_path.cpp')
+  
+D:\Y2S1\CS2040C\Assignments\Assignment5\shortest_path_test\shortest_path.cpp(73,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  shortest_path_test.vcxproj -> D:\Y2S1\CS2040C\Assignments\Assignment5\shortest_path_test\x64\Debug\shortest_path_test.exe

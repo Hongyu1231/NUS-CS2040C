@@ -1,0 +1,3 @@
+﻿  queue_simulator.cpp
+D:\Y2S1\CS2040C\Assignments\Assignment4\Assignment 4 code\Assignment 4 code\queue_simulator.cpp(25,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Heap.vcxproj -> D:\Y2S1\CS2040C\Assignments\Assignment4\Assignment 4 code\Assignment 4 code\x64\Debug\Heap.exe
